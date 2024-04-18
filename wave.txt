@@ -1,6 +1,6 @@
 WAVE:
 
-Status: :RED: **| Oudated + Patched**
+Status: :RED: | **Oudated + Patched**
 Latest Update: **4/8/24 | Patched filesys vulns**
 
 ```Pros: Free Vers. of Executor```
